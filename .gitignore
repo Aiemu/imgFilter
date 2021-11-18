@@ -7,8 +7,8 @@ cmake-build-release/
 .DS_Store
 
 # test data
-imgFilter/data/tch-s.jpg
-imgFilter/data/tch.jpg
+*/imgFilter/data/tch-s.jpg
+*/imgFilter/data/tch.jpg
 
 # Prerequisites
 *.d
