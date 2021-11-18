@@ -6,6 +6,10 @@ cmake-build-release/
 # OSX
 .DS_Store
 
+# test data
+imgFilter/data/tch-s.jpg
+imgFilter/data/tch.jpg
+
 # Prerequisites
 *.d
 
