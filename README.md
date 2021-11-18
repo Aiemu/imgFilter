@@ -1,2 +1,2 @@
 # imgFilter
-inludes some image filters, such as lomo and crystallization.
+include some image filters, such as lomo and crystallization.
