@@ -1,0 +1,3 @@
+filename=../data/Lenna512.png
+M=15
+cluster=1600
