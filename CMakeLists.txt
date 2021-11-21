@@ -10,6 +10,6 @@ set(CMAKE_CXX_FLAGS_RELEASE "-O3")
 #find_library(OpenCV)
 find_package(OpenCV)
 
-include_directories(${OpenCV_INCLUDE_DIRS})
+#include_directories(${OpenCV_INCLUDE_DIRS})
 
 target_link_libraries(filter ${OpenCV_LIBS})
